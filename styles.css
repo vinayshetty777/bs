@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  background-color: #f6f5f5;
+  font-family:verdana,sans-serif;
+  font-style: normal;
+}
+.one{
+  padding: 60px 30px 10px;
+}
+p {
+  margin: 3% 3% 3%;
+}
+img {
+  width: 30%;
+}
+.row {
+  margin: 10% 10% 10%;
+}
+.cil {
+  font-family: 'Anton', sans-serif;
+}
+h1 {
+  font-size: 45px;
+}
